@@ -1,0 +1,20 @@
+{
+  "name": "gitpractical",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Faruk1350/GitPractical.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Faruk1350/GitPractical/issues"
+  },
+  "homepage": "https://github.com/Faruk1350/GitPractical#readme",
+  "description": ""
+}
